@@ -10,9 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MockLIS", "src\MockLIS\MockLIS.xproj", "{FCC5EA53-3585-427A-899B-E503F64E2FCC}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MockLIS", "src\Base\MockLIS.xproj", "{FCC5EA53-3585-427A-899B-E503F64E2FCC}"
 EndProject
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "LIS.Cordova", "src\LIS.Cordova\LIS.Cordova.jsproj", "{8CE38EA4-11F4-4DA2-9BA8-ADF3CFDB3170}"
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "LIS.Cordova", "src\Cordova\LIS.Cordova.jsproj", "{8CE38EA4-11F4-4DA2-9BA8-ADF3CFDB3170}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
