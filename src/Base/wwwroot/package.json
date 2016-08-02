@@ -1,0 +1,31 @@
+{
+  "name": "lis-base",
+  "version": "1.0.0",
+  "description": "Levee Inspection System Base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://stash.di2e.net/scm/cwbi/leveeinspectionsystem.git"
+  },
+  "author": "Stantec",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "jspm": {
+    "directories": {
+      "baseURL": "wwwroot",
+      "lib": "wwwroot"
+    },
+    "dependencies": {
+      "aurelia-bootstrapper": "npm:aurelia-bootstrapper@^1.0.0-beta.1.2.0",
+      "ts": "github:frankwallis/plugin-typescript@^4.0.5"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  },
+  "devDependencies": {
+    "jspm": "^0.16.33"
+  }
+}
