@@ -1,0 +1,6 @@
+﻿﻿ {
+  "exclude": [
+    "node_modules",
+    "www/jspm_packages"
+  ]
+}
