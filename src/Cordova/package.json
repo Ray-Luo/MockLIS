@@ -1,26 +1,7 @@
 {
-  "name": "LIS.Cordova",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-  },
-
-
-  "jspm": {
-    "directories": {
-      "baseURL": "www"
+    "name": "Cordova",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
     }
-  },
-
-  "dependencies": {
-    "base": "local:base@^1.0.0"
-  },
-  "devDependencies": {
-    "typescript": "npm:typescript@^1.6.2"
-  },
-
-  "devDependencies": {
-    "jspm": "^0.16.33",
-    "jspm-local": "^1.0.2"
-  }
 }
